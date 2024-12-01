@@ -5,6 +5,7 @@
       height: 100vh; 
       margin: 0; 
       flex-direction: column; 
+      background-color: #282828;
     }
     .image-container {
       position: relative; 
