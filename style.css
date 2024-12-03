@@ -12,10 +12,12 @@
     }
     h1 {
       text-align: center; 
+      color: #ffffff;
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
       margin-bottom: 10px; 
       font-size: 3em; 
     }
     a {
       font-size: 0.85em;
+      color: #ffffff;
     }
