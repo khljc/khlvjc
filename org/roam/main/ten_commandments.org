@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       a5b2ca1d-b739-42ed-818e-5b1fd28b4ed0
+:END:
+#+title: Ten commandments
+
+*
