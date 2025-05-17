@@ -7,6 +7,6 @@
 * The Seat of Mercy
 The *Seat of mercy* was the gold lid put on the [[id:86cb31dd-11a2-4849-a854-aae9f6ad5cc5][Ark of the Covenant]]. On it were two [[id:6adb4bdc-4e43-404d-97f9-ab93d5faca7a][Cherubim]] placed and the ends facing each other with their wing stretched out, covering the space in the center where Yahweh appeared and dwelled.
 
-[[file:../../../assets/800px-Ark_of_the_Covenant_.jpg]]
+[[file:./assets/800px-Ark_of_the_Covenant_.jpg]]
 * References
 https://en.wikipedia.org/wiki/Mercy_seat

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       138742ec-86b9-438b-bdb2-be026b89f86b
+:END:
+#+title: CS50 - Lecture 0
+
+* Binary
+* Pseudocode
+A human-readable version of your code. (Important skill)
+* Terminology
+** Functions
+A piece of code that doees a specific task. In pseudocode it would be a verb.
+** Conditionals
+A condition is checked whether it has been met, if so, the program does something. Statements like if or else if are called conditionals.
+** Boolean expressions
+Expressions that can be stated as true or false.
+** Loops
+Repeats a function.
+** Abstraction
+The act of simplifying a problem into smaller and smaller problems.
+*** If your code is repetitive it is likely that you could program more artfully.

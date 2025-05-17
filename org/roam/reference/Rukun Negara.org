@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       7ebade46-9366-4e48-8cc8-54d9e6441481
+:END:
+#+title: Rukun Negara
+
+* Rukun Negara
+
+** What is Rukun Negara?
+Rukun Negara, or the National Principles, is Malaysia's statement of national philosophy, declared on Merdeka Day. It was created to promote unity and peace after the 13 May Incident in 1969. Rukun Negara includes important values like belief in God, loyalty to the King and country, following the constitution, and respecting the law. These principles aim to bring Malaysians together and create a shared identity.
+
+These are the Rukun Negara listed in order:
+ 1. Kepercayaan kepada Tuhan - Belief in God
+ 2. Kesetiaan kepada Raja dan Negara - Loyalty to the King and Country
+ 3. Keluhuran Perlembagaan - Upholding the Constitution
+ 4. Kedaulatan Undang-Undang - Supremacy of the Law
+ 5. Kesopanan dan Kesusilaan - Courtesy and Morality
